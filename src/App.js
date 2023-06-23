@@ -40,11 +40,7 @@ const App = () => {
                     <div className='col-sm'>
                         <AllocationForm/>
                     </div>
-                </div>
-
-                        {/* Add ExpenseItem component here under */}        
-
-                        {/* Add AllocationForm component here under */}     
+                </div>  
             </div>
         </AppProvider>
     );
